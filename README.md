@@ -5,10 +5,6 @@
 ---
 
 
-🔭 Сейчас работаю над: `[QSOR IT FORUM]`  
-🌱 Изучаю: `[TypeScript]`  
-📫 Связь: `qsor.contact@gmail.com`
-
 Tech Stack
 <div align="center">
   <h3> programming language </h3>
