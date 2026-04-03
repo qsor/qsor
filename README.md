@@ -32,7 +32,7 @@ Tech Stack
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QSOR&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=6&card_width=340" width="100%" style="max-width: 100%; margin-top: 10px;" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=QSOR&theme=github_dark&hide_border=true&bg_color=0D1117&border_radius=6" width="49%" />
 </div>
 
 ##  Connect With Me
