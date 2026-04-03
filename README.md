@@ -30,14 +30,12 @@ Tech Stack
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QSOR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QSOR&theme=github_dark&hide_border=true&bg_color=0D1117&border_radius=6" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QSOR&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=6&card_width=340" width="100%" style="max-width: 100%; margin-top: 10px;" />
 </div>
 
-## 📬 Connect With Me
+##  Connect With Me
 <div align="center">
   <a href="https://t.me/tocue"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:qsor.contact@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
