@@ -3,7 +3,7 @@
 </div>
 
 ---
-р
+
 Tech Stack
 <div align="center">
   <h3> programming language </h3>
