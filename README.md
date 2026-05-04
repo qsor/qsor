@@ -1,6 +1,4 @@
-<div align="center">
-  <span style="color:#6e7681; font-weight:700; font-size:28px; font-family:-apple-system,Segoe UI,Roboto,sans-serif">QSOR . RU</span>
-</div>
+# <span style="color:#6e7681; font-weight:700; font-size:28px; font-family:-apple-system,Segoe UI,Roboto,sans-serif">QSOR . RU</span>
 
 ---
 
