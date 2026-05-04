@@ -18,17 +18,8 @@
 
 ---
 
-## GitHub Stats
-
+##  Connect With Me
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QSOR&theme=github_dark&hide_border=true&bg_color=0D1117&border_radius=6" width="100%" />
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-  <a href="https://t.me/tocue"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" width="120" /></a>
-  <a href="mailto:qsor.contact@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" width="120" /></a>
+  <a href="https://t.me/tocue"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:qsor.contact@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
