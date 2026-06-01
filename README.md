@@ -3,7 +3,7 @@
 - **[cam](https://github.com/qsor/cam)** - A lightweight, real-time fingertip tracking tool built with Python, OpenCV, and MediaPipe. Detects hand landmarks and displays live (x, y) coordinates for each fingertip directly on your webcam feed.
   
 
-## Contact
+## Contact my
 
 - **Email:** [qsor.contact@gmail.com](mailto:qsor.contact@gmail.com)
 - **Telegram:** [@tocue](https://t.me/tocue)
